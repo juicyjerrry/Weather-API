@@ -1,0 +1,47 @@
+body {
+    background-color: aliceblue;
+}
+
+ul {
+    border: 30px;
+}
+
+.divContainer {
+    display: flex;
+}
+
+.subContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+#sidebar {
+    width: 280px;
+    height: 900px;
+}
+
+#header {
+    display: flex-block;
+    justify-content: center;
+    text-align: center;
+    background-color: deepskyblue;
+}
+#searchResult {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    width: 800px;
+    height: 400px;
+    border: 2px black solid;
+    background-color: darkgrey;
+}
+
+#forcast {
+    display: flex;
+    justify-content: space-between;
+    border: 2px black solid;
+    background-color: darkgray;
+}
+
