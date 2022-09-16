@@ -14,6 +14,7 @@ var searchHistory6 = document.querySelector("searchHistory6")
 var searchHistory7 = document.querySelector("searchHistory7")
 var searchHistory8 = document.querySelector("searchHistory8")
 
+// commented change
 
 var forcast = document.querySelector("#forcast")
 
